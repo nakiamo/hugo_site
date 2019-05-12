@@ -23,7 +23,7 @@ disqusShortname = "yourdiscussshortname"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "Enter a text here."
+    footercontent = "This site is under construction"
 
     dateformat = "January 2, 2006"
 
@@ -63,6 +63,11 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-linkedin fa-2x"
     weight = 3
     url = "https://twitter.com/johndoe/"
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github fa-2x"
+    weight = 3
+    url = "https://github.com/nakiamo"
 
 # Menu links
 [[menu.main]]
