@@ -1,5 +1,5 @@
 baseurl = "https://www.naimcinar.com"
-title = "naimcinar-academic"
+title = "naimcinar"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
