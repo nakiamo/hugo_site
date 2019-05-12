@@ -1,0 +1,87 @@
+baseurl = "https://nakiamo.github.io/"
+title = "naimcinar"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+paginate = 20
+canonifyurls = true
+
+pygmentsstyle = "bw"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+disqusShortname = "yourdiscussshortname"
+
+[params]
+    author = "Naim Cinar"
+    info = "Assistant Professor in Advertising and Public Relations"
+    description = "Naim Cinar's academic website"
+    keywords = "blog,developer,personal"
+    avatarurl = "images/avatar-naim.png"
+
+    favicon_32 = "/img/favicon-32x32.png"
+    favicon_16 = "/img/favicon-16x16.png"
+
+    footercontent = "Enter a text here."
+
+    dateformat = "January 2, 2006"
+
+    hidecredits = false
+    hidecopyright = false
+
+    # Git Commit in Footer, uncomment the line below to enable it.
+    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+
+    rtl = false
+
+    # Use inverted colors
+    inverted = false
+
+    # Series see also post count
+    maxSeeAlsoItems = 5
+
+    math = true
+    custom_css = ["css/custom.css"]
+
+[taxonomies]
+  series = "series"
+
+# Social links
+[[params.social]]
+    name = "Instagram"
+    icon = "fab fa-instagram fa-2x"
+    weight = 1
+    url = "https://github.com/johndoe/"
+[[params.social]]
+    name = "AnadoluUniversity"
+    icon = "fa fa-university fa-2x"
+    weight = 2
+    url = "https://akademik.anadolu.edu.tr/naimcinar"
+[[params.social]]
+    name = "Linkedin"
+    icon = "fab fa-linkedin fa-2x"
+    weight = 3
+    url = "https://twitter.com/johndoe/"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 2
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 1
+    url = "/about/"
+[[menu.main]]
+    name = "Lectures"
+    weight = 3
+    url = "lecture"
+[[menu.main]]
+    name = "Publications"
+    weight = 4
+    url = "/publication/"
+[[menu.main]]
+    name = "Contact Me"
+    weight = 5
+    url = "/contact/"

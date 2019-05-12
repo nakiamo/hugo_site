@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on naimcinar</title>
+    <link>https://nakiamo.github.io/posts/</link>
+    <description>Recent content in Posts on naimcinar</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 09 May 2019 18:27:47 +0300</lastBuildDate>
+    
+	<atom:link href="https://nakiamo.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lectures</title>
+      <link>https://nakiamo.github.io/posts/the-latest-cool-stuff/</link>
+      <pubDate>Thu, 09 May 2019 18:27:47 +0300</pubDate>
+      
+      <guid>https://nakiamo.github.io/posts/the-latest-cool-stuff/</guid>
+      <description>Fall Semester Advertising Campaign Design
+Advertising Project
+Spring Semester International Project
+Advertising in the Digital Age</description>
+    </item>
+    
+  </channel>
+</rss>
