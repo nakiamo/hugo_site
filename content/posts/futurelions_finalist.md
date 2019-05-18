@@ -10,7 +10,7 @@ externalLink = ""
 series = []
 +++
 
-In my "Advertising Project" lecture, the students form groups and create a project for Cannes Future Lions competition. This year, Abdullah Görgeç, Beyza Hava and Burak Koşar created *"Volvo - Animal Safety"* and it become a finalist in the competition. Congratulations to them!
-  
+In my "Advertising Project" lecture, the students form groups and create a project for Cannes Future Lions competition. This year, [Abdullah Görgeç](https://tr.linkedin.com/in/abdullahgorgec), [Beyza Hava](https://tr.linkedin.com/in/beyza-hava-268977116) and [Burak Koşar](https://www.linkedin.com/in/burak-ko%C5%9Far-99347a173/) created *"Volvo - Animal Safety"* and it become a finalist in the competition. Congratulations to them!
+
 + <p>**Volvo Animal Safety**
 {{< vimeo 330478647 >}}
