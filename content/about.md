@@ -29,3 +29,14 @@ Some fun facts about [Hugo](http://gohugo.io/):
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/spf13/hugo/issues/new) or [ask me on Twitter](https://twitter.com/spf13).
 
 Thanks for [reading](http://naimcinar.com)!
+
+
+type Inventory struct {
+	Material string
+	Count    uint
+}
+sweaters := Inventory{"wool", 17}
+tmpl, err := template.New("test").Parse("{{.Count}} items are made of {{.Material}}")
+if err != nil { panic(err) }
+err = tmpl.Execute(os.Stdout, sweaters)
+if err != nil { panic(err) }
