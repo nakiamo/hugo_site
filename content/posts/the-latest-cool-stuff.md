@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2019-05-09T18:27:47+03:00
-title = "Future Lions"
+title = "Future Lions Competition: A selection of my students' entries"
 description = ""
 slug = "" 
 tags = []
@@ -17,9 +17,9 @@ In collaboration with Cannes Lions International Festival of Creativity, Future 
 
 <p>The main focus of my “Advertising Project” lecture is on the future consumer and technology trends. One of the outputs of this lecture is Future Lions competition entries created by the students. Here are some good examples of the projects my students created.<p>
 
-+ <p>**Volvo Animal Safety**
++ <p>**Volvo Animal Safety | 2019**
 {{< vimeo 330478647 >}}
-+ <p>**Google Feels**
++ <p>**Google Feels | 2019**
 {{< vimeo 330524592 >}}
-+ <p>**IKEA Wisedrobe**
++ <p>**IKEA Wisedrobe | 2018**
 {{< vimeo 212818259 >}}
