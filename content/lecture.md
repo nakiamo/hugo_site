@@ -5,12 +5,12 @@ slug = "lecture"
 
 ## Fall Semester 
 
-Advertising Campaign Design
+Advertising Campaign Design (TR)
 
-Advertising Project
+Advertising Project (EN)
 
 ## Spring Semester
 
-International Project
+International Project (EN)
 
-Advertising in the Digital Age
+Advertising in the Digital Age (TR)
