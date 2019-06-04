@@ -6,10 +6,20 @@
     <description>Recent content on naimcinar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 May 2019 15:35:16 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2019 22:24:05 +0300</lastBuildDate>
     
 	<atom:link href="https://www.naimcinar.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My students&#39; project becomes a Cannes Future Lions finalist</title>
+      <link>https://www.naimcinar.com/posts/futurelions_finalist/</link>
+      <pubDate>Sat, 18 May 2019 22:24:05 +0300</pubDate>
+      
+      <guid>https://www.naimcinar.com/posts/futurelions_finalist/</guid>
+      <description>In my &amp;ldquo;Advertising Project&amp;rdquo; lecture, the students form groups and create a project for Cannes Future Lions competition. This year, Abdullah Görgeç, Beyza Hava and Burak Koşar created &amp;ldquo;Volvo - Animal Safety&amp;rdquo; and it become a finalist in the competition. Congratulations to them!
+ Volvo Animal Safety     </description>
+    </item>
     
     <item>
       <title>Publication</title>
@@ -23,7 +33,7 @@
     </item>
     
     <item>
-      <title>Future Lions</title>
+      <title>Future Lions Competition: A selection of my students&#39; entries</title>
       <link>https://www.naimcinar.com/posts/the-latest-cool-stuff/</link>
       <pubDate>Thu, 09 May 2019 18:27:47 +0300</pubDate>
       
@@ -49,7 +59,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.naimcinar.com/contact/</guid>
-      <description>Follow me, @johndoe.</description>
+      <description>Follow me, @naimcinar.</description>
     </item>
     
     <item>
@@ -58,10 +68,10 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.naimcinar.com/lecture/</guid>
-      <description>Fall Semester Advertising Campaign Design
-Advertising Project
-Spring Semester International Project
-Advertising in the Digital Age</description>
+      <description>Fall Semester Advertising Campaign Design (TR)
+Advertising Project (EN)
+Spring Semester International Project (EN)
+Advertising in the Digital Age (TR)</description>
     </item>
     
   </channel>

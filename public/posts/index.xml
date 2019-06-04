@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on naimcinar</title>
+    <title>My Posts on naimcinar</title>
     <link>https://www.naimcinar.com/posts/</link>
-    <description>Recent content in Posts on naimcinar</description>
+    <description>Recent content in My Posts on naimcinar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 May 2019 18:27:47 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 18 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.naimcinar.com/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Future Lions</title>
+      <title>My students&#39; project becomes a Cannes Future Lions finalist</title>
+      <link>https://www.naimcinar.com/posts/futurelions_finalist/</link>
+      <pubDate>Sat, 18 May 2019 22:24:05 +0300</pubDate>
+      
+      <guid>https://www.naimcinar.com/posts/futurelions_finalist/</guid>
+      <description>In my &amp;ldquo;Advertising Project&amp;rdquo; lecture, the students form groups and create a project for Cannes Future Lions competition. This year, Abdullah Görgeç, Beyza Hava and Burak Koşar created &amp;ldquo;Volvo - Animal Safety&amp;rdquo; and it become a finalist in the competition. Congratulations to them!
+ Volvo Animal Safety     </description>
+    </item>
+    
+    <item>
+      <title>Future Lions Competition: A selection of my students&#39; entries</title>
       <link>https://www.naimcinar.com/posts/the-latest-cool-stuff/</link>
       <pubDate>Thu, 09 May 2019 18:27:47 +0300</pubDate>
       

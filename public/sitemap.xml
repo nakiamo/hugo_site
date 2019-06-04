@@ -3,41 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.naimcinar.com/posts/futurelions_finalist/</loc>
+    <lastmod>2019-05-18T22:24:05+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.naimcinar.com/posts/</loc>
+    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://www.naimcinar.com/publication/</loc>
     <lastmod>2019-05-10T15:35:16+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.naimcinar.com/posts/the-latest-cool-stuff/</loc>
     <lastmod>2019-05-09T18:27:47+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.naimcinar.com/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.naimcinar.com/contact/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.naimcinar.com/lecture/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.naimcinar.com/posts/</loc>
-    <lastmod>2019-05-09T18:27:47+03:00</lastmod>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.naimcinar.com/series/</loc>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.naimcinar.com/</loc>
-    <lastmod>2019-05-10T15:35:16+03:00</lastmod>
+    <lastmod>2019-05-18T22:24:05+03:00</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0</priority>
   </url>
   
