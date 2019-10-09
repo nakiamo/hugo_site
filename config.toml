@@ -84,7 +84,7 @@ enableemoji = true
     weight = 2
     url  = "/posts/"
 [[menu.main]]
-    name = "Portfolio"
+    name = "Photography"
     weight = 3
     url  = "https://naimcinar.myportfolio.com/"
 [[menu.main]]
