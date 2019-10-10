@@ -69,12 +69,12 @@ enableemoji = true
 [[params.social]]
     name = "Github"
     icon = "fab fa-github fa-2x"
-    weight = 3
+    weight = 4
     url = "https://github.com/nakiamo"
 [[params.social]]
     name = "Orcid"
-    icon = "fab fa-orcid fa-2x"
-    weight = 3
+    icon = "fab fa-researchgate fa-2x"
+    weight = 5
     url = "https://orcid.org/0000-0002-1824-4076"
 
 
