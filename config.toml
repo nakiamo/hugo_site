@@ -72,10 +72,10 @@ enableemoji = true
     weight = 3
     url = "https://github.com/nakiamo"
 [[params.social]]
-    name = "ResearchGate"
-    icon = "fab fa-researchgate fa-2x"
+    name = "Orcid"
+    icon = "fab fa-orcid fa-2x"
     weight = 3
-    url = "https://www.researchgate.net/profile/Naim_Cinar"
+    url = "https://orcid.org/0000-0002-1824-4076"
 
 
 # Menu links
