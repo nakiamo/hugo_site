@@ -69,13 +69,13 @@ enableemoji = true
 [[params.social]]
     name = "Github"
     icon = "fab fa-github fa-2x"
-    weight = 3
+    weight = 4
     url = "https://github.com/nakiamo"
 [[params.social]]
-    name = "ResearchGate"
+    name = "Orcid"
     icon = "fab fa-researchgate fa-2x"
-    weight = 3
-    url = "https://www.researchgate.net/profile/Naim_Cinar"
+    weight = 5
+    url = "https://orcid.org/0000-0002-1824-4076"
 
 
 # Menu links
@@ -84,20 +84,24 @@ enableemoji = true
     weight = 2
     url  = "/posts/"
 [[menu.main]]
+    name = "Photography"
+    weight = 3
+    url  = "https://naimcinar.myportfolio.com/"
+[[menu.main]]
     name = "About"
     weight = 1
     url = "/about/"
 [[menu.main]]
     name = "Lectures"
-    weight = 3
+    weight = 4
     url = "lecture"
 [[menu.main]]
     name = "Publications"
-    weight = 4
+    weight = 5
     url = "/publication/"
 [[menu.main]]
     name = "Contact Me"
-    weight = 5
+    weight = 6
     url = "/contact/"
 
 [sitemap]
