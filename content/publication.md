@@ -23,9 +23,9 @@ E-Gifder
 
 ## BOOK CHAPTERS
 
-+ (upcoming) Çınar, N. **The rise of consumer generated content and its transformative effect on the future of advertising** In M. Filimowicz & V. Tzankova (Eds.), *Reimagining communication* (volume 4: Mediation). New York: Routledge
++ Çınar, N. (2020) [**The rise of consumer generated content and its transformative effect on the future of advertising**](https://www.routledge.com/Reimagining-Communication-Mediation-1st-Edition/Filimowicz-Tzankova/p/book/9781138498914) In M. Filimowicz & V. Tzankova (Eds.), *Reimagining communication: Mediation*. New York: Routledge
 
-+ (upcoming) Özbaş, Z. & Çınar, N. **Reklam araştırmalarında sosyal ağ analizi (Social network analysis in advertising research)** In Şener, G. & Yıldız, S. (Eds.), ""  
++ Özbaş, Z. & Çınar, N. (2019) [**Sosyal ağlarda neler oluyor? Sosyal ağ analizi ile pazarlama iletişimi araştırmaları**](https://www.detayyayin.com.tr/urun/iletisim-arastirmalarinda-farkli-bakis-acilari) In Şener, G. & Yıldız, S. (Eds.), *İletişim araştırmalarında farklı bakış açıları* Ankara: Detay Yayınları  
 
 + Çınar, N. (2017) **Yeni medya ortamında reklamcılığın dönüşümü (Transformation of advertising in new media environment)** In Yazıcı, M. & Çınar, N. (eds), *Reklam Kampanya Analizi* Eskişehir: Anodolu Üniversitesi Açıköğretim Yayını.
 
