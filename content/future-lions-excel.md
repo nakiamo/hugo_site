@@ -1,7 +1,7 @@
 ---
 title: "Future Lions Excel"
 date: 2020-02-18T13:14:12+03:00
-draft: true
+draft: false
 slug: "ongoing-research-data"
 ---
 
