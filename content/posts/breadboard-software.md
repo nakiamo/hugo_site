@@ -20,5 +20,3 @@ You can reach the full text from [this link](http://humannaturelab.net/images/pu
 {{< youtube FQgb9F_jngg >}}
 
 *P.S.* [LIONESS Lab](https://lioness-lab.org/) is another free web-based platform for interactive online experiments. We may cover it in another blog post.
-
-
