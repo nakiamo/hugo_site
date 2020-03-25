@@ -5,7 +5,7 @@ title = " Datacamp for the classroom"
 description = ""
 slug = "" 
 tags = [coding, online, education]
-categories = [education]
+categories = []
 externalLink = ""
 series = []
 +++
