@@ -5,7 +5,7 @@ title = "Future Lions Competition: A selection of my students' entries"
 description = ""
 slug = "" 
 tags = []
-categories = []
+categories = [education]
 externalLink = ""
 series = []
 +++

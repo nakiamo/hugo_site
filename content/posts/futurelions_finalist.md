@@ -5,7 +5,7 @@ title = "My students' project becomes a Cannes Future Lions finalist"
 description = ""
 slug = "" 
 tags = []
-categories = []
+categories = [education]
 externalLink = ""
 series = []
 +++

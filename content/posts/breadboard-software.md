@@ -5,7 +5,7 @@ title = "Conducting human interaction experiments on networks with Breadboard"
 description = ""
 slug = "" 
 tags = []
-categories = []
+categories = [research]
 externalLink = ""
 series = []
 +++
