@@ -14,10 +14,3 @@ I give theoretical and prectical lessons on advertising which is in a constant s
 Our students need to master new skills to guarantee a successful career in the media and data science is definetly one of those skılls. I belive that having a basic knowledge about data science will not only be an extra skill on their cv but opens a new wındow to explore their potential. 
 
 Therefore, I'm using DataCamp for the Classroom to help students learn data science anywhere, any time. @DataCamp provides access to world-class online education for free via this initiative. Find out more: https://www.datacamp.com/groups/education
-
-
-
- Advertising is not anymore about finding the big creative idea. 
-
-
-The core topics such as, the emerging technologies and consumer trends, 
