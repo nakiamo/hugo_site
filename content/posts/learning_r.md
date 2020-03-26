@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2020-03-26T22:00:12+03:00
 title = "I'm learning R programming language"
 description = ""
