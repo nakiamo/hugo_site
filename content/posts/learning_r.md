@@ -13,7 +13,7 @@ series = []
 I'm trying to learn R programming language through an excellent online course on [datacamp.com](https://www.datacamp.com) and it's a lot of fun. This is my second attempt of writing code after the classic "Hello World". I know that I'm in the very beginning of this journey but I want to leave this code here as a milestone :grimacing:
 
  
-{{< fa meetup >}}
+{{< fa r-project >}}
 {{< highlight go "linenos=table,hl_lines=2,linenostart=1" >}} 
 # Count how many times a specific word was repeated in a text
 rquote <- "Add text here "
