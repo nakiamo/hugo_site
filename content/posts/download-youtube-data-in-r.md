@@ -1,7 +1,7 @@
 +++ 
 draft = false
 date = 2020-04-23T00:06:40+03:00
-title = "Getting Youtube Data with R using Tuber: Download YouTube Comments"
+title = "Getting YouTube Data with R using Tuber: Download YouTube Comments"
 description = ""
 slug = "" 
 tags = ["Coding", "Education"]
