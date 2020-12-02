@@ -15,12 +15,6 @@ disqusShortname = "www-naimcinar-com"
 
 enableemoji = true
 
-params:
-  instagram:
-    appId: "391066855304099"
-    clientToken: "42ccfb9458dff06af1331cc4159f2eb9"
-
-
 [params]
     author = "Naim Cinar"
     info = "(Ph.D.) Advertising and Public Relations"
