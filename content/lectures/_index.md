@@ -1,11 +1,9 @@
 ---
 title: "Lectures"
-date: 2020-12-06T12:33:47+03:00
-draft: false
+date: 2020-12-06T15:22:30+03:00
+draft: true
+slug: "lecture-1"
 ---
+## List of Lectures
 
-## Reference
-
-[Advertising in the Digital Age]({{< ref "/lectures/ad-in-the-digital-age" >}} "Advertising in the Digital Age")
-
-You can find more about me on this blog.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 

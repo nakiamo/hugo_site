@@ -1,7 +1,13 @@
----
-title: My Posts
-date: 2019-05-18
-publishdate: 2019-05-18
----
++++ 
+draft = true
+date = 2020-12-06T15:18:38+03:00
+title = ""
+description = ""
+slug = "" 
+tags = []
+categories = []
+externalLink = ""
+series = []
++++
 
-You can find more about me on this blog.
+You can read my latest posts here:
