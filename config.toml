@@ -93,7 +93,7 @@ enableemoji = true
 [[menu.main]]
     name = "Lectures"
     weight = 4
-    url = "lecture"
+    url = "/lectures/"
 [[menu.main]]
     name = "Publications"
     weight = 5
