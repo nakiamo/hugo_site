@@ -1,7 +1,7 @@
 ---
 title: "Lectures"
 date: 2020-12-06T15:22:30+03:00
-draft: true
+draft: false
 slug: "lecture-1"
 ---
 ## List of Lectures
