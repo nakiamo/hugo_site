@@ -1,7 +1,7 @@
 ---
 title: "Lectures"
 date: 2020-12-06T12:33:47+03:00
-draft: true
+draft: false
 ---
 
 ## Reference
