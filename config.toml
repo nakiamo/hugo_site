@@ -91,9 +91,9 @@ enableemoji = true
     weight = 1
     url = "/about/"
 [[menu.main]]
-    name = "Lectures"
+    name = "Teaching"
     weight = 4
-    url = "/lectures/"
+    url = "/teaching/"
 [[menu.main]]
     name = "Publications"
     weight = 5
