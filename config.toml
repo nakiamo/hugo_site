@@ -1,6 +1,7 @@
 baseurl = "https://www.naimcinar.com"
 title = "naimcinar"
 theme = "hugo-coder"
+googleAnalytics = "G-YFD3WZYF1G"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
