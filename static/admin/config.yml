@@ -10,6 +10,7 @@ collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI
     folder: "content/posts" # The path to the folder where the documents are stored
+    folder: "content/teaching" # The path to the folder where the documents are stored
     filter:
       field: language
       value: en
