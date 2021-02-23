@@ -8,8 +8,8 @@ public_folder: "/images/uploads" # The src attribute for uploaded media will beg
 
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
-    label: "Blogposts" # Used in the UI
-    folder: "_posts" # The path to the folder where the documents are stored
+    label: "Posts" # Used in the UI
+    folder: "content/posts" # The path to the folder where the documents are stored
     filter:
       field: language
       value: en
