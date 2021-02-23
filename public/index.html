@@ -53,6 +53,7 @@
 
     <link rel="alternate" type="application/rss+xml" href="https://www.naimcinar.com/index.xml" title="naimcinar" />
     <meta name="generator" content="Hugo 0.54.0" />
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
   <body class=" ">
@@ -171,7 +172,17 @@
     </main>
 
     
-
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
   </body>
 
 </html>
