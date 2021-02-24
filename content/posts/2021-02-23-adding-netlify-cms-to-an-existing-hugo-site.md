@@ -66,12 +66,12 @@ Based on the structure of your web site you may need to change the `folder:` sou
 * Go to **Services > Git Gateway**, and click **Enable Git Gateway**. This authenticates with your Git Host and generates and APi token.
 * Evertything is almost set up. What we need now is a frontend interface to connect. We will add the following script in two places, to include the **Netlify Identity Widget** on our web site:
 
+{{< highlight go "linenos=table,linenostart=1" >}}
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+{{< / highlight >}}
 
-    *<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
-
-* Add the script to the `<head>` of your CMS index page (`/admin/index.html`)
-* Add the script `<head>`of your site's main index page.
+Add the script to the `<head>` of your CMS index page (`/admin/index.html`)
+Add the script `<head>`of your site's main index page.
 
 I added the script on these locations manually but somehow it did not work correctly. I'm sure I did a very simple mistake which I couldn't yet figure out what, but if you are an amateur like me you can include the script on your web site using Netlify's [Script Injection](https://docs.netlify.com/site-deploys/post-processing/snippet-injection/) feature.  
 
