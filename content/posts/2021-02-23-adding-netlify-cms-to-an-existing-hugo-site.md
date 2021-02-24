@@ -59,6 +59,7 @@ collections:
 Based on the structure of your web site you may need to change the `folder:` source in collections. You can also decide add or a remove label based on your needs when submitting a post. I succesfully managed to add posts from the CMS interface after this setup but can't reach the other folders on my web site such as `teaching`. I'll update this step if I will learn how to make all folders visible in the Netlify CMS user interface. For now, this configuration enables me to reach and edit my blog posts and post new ones from the CMS.
 
 **Step 5**: Our `index.html` and `config.yml` files are now ready. Let's move to the Authentication step. Let's first enable Netlify Identity and Git Gateway:
+
 * On your Netlify account, go to **Settings > Identity** and select **Enable Identity Service**
 * Under **Registration preferences**, select **Invite Only**.
 * If you want to enable login from external providers such as Google and GitHub, check the boxes you want to use,  under **External Providers** section. I find it practical to log in with GitHub, so I added it. 
