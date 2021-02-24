@@ -2,7 +2,9 @@
 layout: blog
 title: Adding Netlify CMS to an existing Hugo Site
 date: 2021-02-23T18:37:30.365Z
-tags: ["Coding", "Education"]
+tags:
+  - Coding
+  - Education
 ---
 I built this web site with Hugo and host it on Netlify. I use Visual Studio Code to make all the editing on my local repository and to push to/pull from my remote repository on GitHub. I'm a beginner so this process helped me alot to learn the basic of Markdown and Git. It's fun to update the website content following these steps but sometimes it can be frustrating. At those times, I really miss the user interface of content management systems such as Wordpress. 
 
@@ -16,7 +18,9 @@ There is a detailed explanation about [how to set up Netlify CMS on an existing 
 
 **Step 3**: Paste this code in `index.html` and save. This HTML starter page will load the Netlify CMS Javascript file:
 {{< highlight go "linenos=table,linenostart=1" >}}
+
 <!doctype html>
+
 <html>
 <head>
   <meta charset="utf-8" />
@@ -42,19 +46,20 @@ media_folder: "static/images/uploads" # Media files will be stored in the repo u
 public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
-  - name: "posts" # Used in routes, e.g., /admin/collections/blog
-    label: "posts" # Used in the UI
-    folder: "content/posts" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
-    fields: # The fields for each document, usually in front matter
-      - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image", required: FALSE}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "string"}
-{{< / highlight >}}
+
+* name: "posts" # Used in routes, e.g., /admin/collections/blog
+      label: "posts" # Used in the UI
+      folder: "content/posts" # The path to the folder where the documents are stored
+      create: true # Allow users to create new documents in this collection
+      slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+      fields: # The fields for each document, usually in front matter
+        - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Publish Date", name: "date", widget: "datetime"}
+        - {label: "Featured Image", name: "thumbnail", widget: "image", required: FALSE}
+        - {label: "Body", name: "body", widget: "markdown"}
+        - {label: "Tags", name: "tags", widget: "string"}
+  {{< / highlight >}}
 
 Based on the structure of your web site you may need to change the `folder:` source in collections. You can also decide add or a remove label based on your needs when submitting a post. I succesfully managed to add posts from the CMS interface after this setup but can't reach the other folders on my web site such as `teaching`. I'll update this step if I will learn how to make all folders visible in the Netlify CMS user interface. For now, this configuration enables me to reach and edit my blog posts and post new ones from the CMS.
 
@@ -67,11 +72,14 @@ Based on the structure of your web site you may need to change the `folder:` sou
 * Evertything is almost set up. What we need now is a frontend interface to connect. We will add the following script in two places, to include the **Netlify Identity Widget** on our web site:
 
 {{< highlight go "linenos=table,linenostart=1" >}}
+
 <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
 {{< / highlight >}}
 
-Add the script to the `<head>` of your CMS index page (`/admin/index.html`)
-Add the script `<head>`of your site's main index page.
+Add the script to the `<head>` of your CMS index page (`/admin/index.html`
+
+Add the script `<head>`of your site's main index page, too.
 
 I added the script on these locations manually but somehow it did not work correctly. I'm sure I did a very simple mistake which I couldn't yet figure out what, but if you are an amateur like me you can include the script on your web site using Netlify's [Script Injection](https://docs.netlify.com/site-deploys/post-processing/snippet-injection/) feature.  
 
@@ -80,6 +88,7 @@ To use snippet injection, go to **Site Settings > Build & Deploy > Post processi
 Lastly, we will add the following script before the closing `<body>` tag of our website's main index page. This script allows user to redirect back to the `/admin/` path after comopleting the login with the Netlify Identity Widget:
 
 {{< highlight go "linenos=table,linenostart=1" >}}
+
 <script>
   if (window.netlifyIdentity) {
     window.netlifyIdentity.on("init", user => {
@@ -91,6 +100,7 @@ Lastly, we will add the following script before the closing `<body>` tag of our 
     });
   }
 </script>
+
 {{< / highlight >}}
 
 **Step 5**: Now we're all set. Sinca we set our registration preferences to "Invite Only", we need to invite ourself as a site user. To do this, select the **Identity** tab from Netlify site dashboard and select the **Invite Users** button. Add you email adress and send an invitation. You will recevive an email. In your email, click "accept the invitation". You will be directed to your website admin sign up panel. Choose a password. Now you are ready to log in to Netlify CMS.
