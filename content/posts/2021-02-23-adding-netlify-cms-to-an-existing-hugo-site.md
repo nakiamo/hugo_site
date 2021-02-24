@@ -75,7 +75,7 @@ Based on the structure of your web site you may need to change the `folder:` sou
 
 I added the script on these locations manually but somehow it did not work correctly. I'm sure I did a very simple mistake which I couldn't yet figure out what, but if you are an amateur like me you can include the script on your web site using Netlify's [Script Injection](https://docs.netlify.com/site-deploys/post-processing/snippet-injection/) feature.  
 
-To use snippet injection, go to **Site Settings > Build & Deploy > Post processing**. Find the **Snippet Injection** section and select **Add Snippet**. Write a name for the script in the first box (e.g. Netlify Identity Widget). Paste the script on the second page. Choose `Insert before </body>` option and save. 
+To use snippet injection, go to **Site Settings > Build & Deploy > Post processing**. Find the **Snippet Injection** section and select **Add Snippet**. Write a name for the script in the first box (e.g. Netlify Identity Widget). Paste the script inside the second box. Choose `Insert before </body>` option and save. 
 
 Lastly, we will add the following script before the closing `<body>` tag of our website's main index page. This script allows user to redirect back to the `/admin/` path after comopleting the login with the Netlify Identity Widget:
 
