@@ -4,11 +4,6 @@
   margin-top: 1.6rem;
   margin-bottom: 3.2rem;
   article {
-    details {
-      summary {
-        cursor: pointer;
-      }
-    }
     header {
       margin-top: 6.4rem;
       margin-bottom: 3.2rem;
@@ -30,11 +25,6 @@
           margin: 3.2rem 0;
         }
       }
-    }
-    p {
-      text-align: justify;
-      text-justify: auto;
-      hyphens: auto;
     }
   }
   .post {
@@ -89,7 +79,6 @@
       }
       .date {
         display: inline-block;
-        flex:1;
         width: 20.0rem;
         text-align: right;
         margin-right: 3.0rem;
@@ -100,21 +89,13 @@
       }
       .title {
         font-size: 1.8rem;
-        flex:2;
         color: $fg-color;
-        font-family: $font-family;
+        font-family: $heading-font-family;
         font-weight: 700;
         &:hover,
         &:focus {
           color: $link-color
         }
-      }
-    }
-  }
-  ul:not(.pagination) {
-    li {
-      @media only screen and (min-width : 768.1px) {
-        display: flex;
       }
     }
   }

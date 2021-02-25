@@ -1,14 +1,10 @@
 {{ define "title" }}
-  {{ title (i18n (lower .Title)) | default .Title }} · {{ .Site.Title }}
+  {{ .Title }} · {{ .Site.Title }}
 {{ end }}
 {{ define "content" }}
   <section class="container list">
-    <h1 class="title">
-      <a class="title-link" href="{{ .Permalink | safeURL }}">
-        {{ title (i18n (lower .Title)) | default .Title }}
-      </a>
-    </h1>
-    {{ .Content }}
+    <h1 class="title">{{ .Title }}</h1>
+
     <ul>
       {{- range .Paginator.Pages -}}
         {{- .Render "li" -}}

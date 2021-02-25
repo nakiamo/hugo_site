@@ -1,4 +1,4 @@
-@mixin content_dark {
+body.inverted {
 
   .content {
   
@@ -6,10 +6,10 @@
       ul {
         li {
           .title {
-            color: $fg-color-dark;
+            color: $fg-color-inverted;
             &:hover,
             &:focus {
-              color: $link-color-dark;
+              color: $link-color-inverted
             }
           }
         }
@@ -21,10 +21,10 @@
         ul {
           li {
             a {
-              color: $fg-color-dark;
+              color: $fg-color-inverted;
               &:hover,
               &:focus {
-                color: $link-color-dark;
+                color: $link-color-inverted;
               }
             }
           }
@@ -33,14 +33,4 @@
     }
   }
 
-}
-
-body.colorscheme-dark {
-  @include content_dark()
-}
-
-body.colorscheme-auto {
-  @media (prefers-color-scheme: dark) {
-    @include content_dark()
-  }
 }
