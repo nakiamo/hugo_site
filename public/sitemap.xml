@@ -1,17 +1,87 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.naimcinar.com/posts/futurelions_finalist/</loc>
-    <lastmod>2019-05-18T22:24:05+03:00</lastmod>
+    <loc>https://www.naimcinar.com/posts/2021-02-23-adding-netlify-cms-to-an-existing-hugo-site/</loc>
+    <lastmod>2021-02-23T18:37:30+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.naimcinar.com/</loc>
+    <lastmod>2021-02-23T18:37:30+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://www.naimcinar.com/posts/</loc>
-    <lastmod>2019-05-18T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-23T18:37:30+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.naimcinar.com/posts/future-scenarios-book/</loc>
+    <lastmod>2021-02-08T12:17:49+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.naimcinar.com/teaching/</loc>
+    <lastmod>2020-12-19T16:41:44+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.naimcinar.com/teaching/advertising-project/</loc>
+    <lastmod>2020-12-06T17:13:10+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.naimcinar.com/teaching/ad-in-the-digital-age/</loc>
+    <lastmod>2020-12-06T12:28:47+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.naimcinar.com/posts/download-youtube-data-in-r/</loc>
+    <lastmod>2020-04-23T00:06:40+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.naimcinar.com/posts/learning_r/</loc>
+    <lastmod>2020-03-26T22:00:12+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.naimcinar.com/posts/datacamp_in_the_classroom/</loc>
+    <lastmod>2020-03-25T21:00:10+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.naimcinar.com/posts/breadboard-software/</loc>
+    <lastmod>2019-11-04T16:55:21+03:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.naimcinar.com/posts/futurelions_finalist/</loc>
+    <lastmod>2019-05-18T22:24:05+03:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -51,14 +121,7 @@
   <url>
     <loc>https://www.naimcinar.com/series/</loc>
     <changefreq>monthly</changefreq>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.naimcinar.com/</loc>
-    <lastmod>2019-05-18T22:24:05+03:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0</priority>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
