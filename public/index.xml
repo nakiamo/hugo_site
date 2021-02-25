@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>naimcinar</title>
@@ -6,10 +6,84 @@
     <description>Recent content on naimcinar</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 May 2019 22:24:05 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 23 Feb 2021 18:37:30 +0000</lastBuildDate>
     
 	<atom:link href="https://www.naimcinar.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Adding Netlify CMS to an existing Hugo Site</title>
+      <link>https://www.naimcinar.com/posts/2021-02-23-adding-netlify-cms-to-an-existing-hugo-site/</link>
+      <pubDate>Tue, 23 Feb 2021 18:37:30 +0000</pubDate>
+      
+      <guid>https://www.naimcinar.com/posts/2021-02-23-adding-netlify-cms-to-an-existing-hugo-site/</guid>
+      <description>I built this web site with Hugo and host it on Netlify. I use Visual Studio Code to make all the editing on my local repository and to push to/pull from my remote repository on GitHub. I&amp;rsquo;m a beginner so this process helped me alot to learn the basic of Markdown and Git. It&amp;rsquo;s fun to update the website content following these steps but sometimes it can be frustrating. At those times, I really miss the user interface of content management systems such as Wordpress.</description>
+    </item>
+    
+    <item>
+      <title>New Book Project: Future Scenarios</title>
+      <link>https://www.naimcinar.com/posts/future-scenarios-book/</link>
+      <pubDate>Mon, 08 Feb 2021 12:17:49 +0300</pubDate>
+      
+      <guid>https://www.naimcinar.com/posts/future-scenarios-book/</guid>
+      <description>RHI460 Advertising Project is aimed for senior students and an applied course where students develop innovative ideas that might serve the future needs and expectations of consumers. Eventually, they make video presentation of the project and submit it to Cannes Future Lions Creativity Competition. This year, I had to make some changes. First of all, I moved the class online but then I realized that it&amp;rsquo;s really hard when it&amp;rsquo;s not face to face.</description>
+    </item>
+    
+    <item>
+      <title>Advertising Project (ENG)</title>
+      <link>https://www.naimcinar.com/teaching/advertising-project/</link>
+      <pubDate>Sun, 06 Dec 2020 17:13:10 +0300</pubDate>
+      
+      <guid>https://www.naimcinar.com/teaching/advertising-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advertising in the Digital Age (TR)</title>
+      <link>https://www.naimcinar.com/teaching/ad-in-the-digital-age/</link>
+      <pubDate>Sun, 06 Dec 2020 12:28:47 +0300</pubDate>
+      
+      <guid>https://www.naimcinar.com/teaching/ad-in-the-digital-age/</guid>
+      <description>Join the Google Classroom page to view and submit your assignments.</description>
+    </item>
+    
+    <item>
+      <title>Getting YouTube Data with R using Tuber: Download YouTube Comments</title>
+      <link>https://www.naimcinar.com/posts/download-youtube-data-in-r/</link>
+      <pubDate>Thu, 23 Apr 2020 00:06:40 +0300</pubDate>
+      
+      <guid>https://www.naimcinar.com/posts/download-youtube-data-in-r/</guid>
+      <description>Enable APIs The first step is to enable APIs on Google API Console. You need a Google account to do this.
+ Click on +ENABLE APIS AND SERVICES Type &amp;lsquo;Youtube&amp;rsquo; on the search bar. You will see four options (Youtube Data API v3, Youtube Analytics API, Youtube Ads Reach API and Youtube Reporting API). Enable all of them. Type &amp;lsquo;Freebase API&amp;rsquo; on the search bar and enable it, too.  Now all the APIs are enabled.</description>
+    </item>
+    
+    <item>
+      <title>I&#39;m learning R programming language</title>
+      <link>https://www.naimcinar.com/posts/learning_r/</link>
+      <pubDate>Thu, 26 Mar 2020 22:00:12 +0300</pubDate>
+      
+      <guid>https://www.naimcinar.com/posts/learning_r/</guid>
+      <description>I&amp;rsquo;m trying to learn R programming language through an excellent online course on datacamp.com and it&amp;rsquo;s a lot of fun. This is my second attempt of writing code after the classic &amp;ldquo;Hello World&amp;rdquo;. I know that I&amp;rsquo;m in the very beginning of this journey but I want to leave this code here as a milestone 😬  
+  1 2 3 4 5 6 7 8 9 10 11  # Count how many times a specific word was repeated in a text rquote &amp;lt;- &amp;#34;Add text here &amp;#34; words &amp;lt;- strsplit(rquote, &amp;#34; &amp;#34;) [[1]] rcount &amp;lt;- 0 for(word in words) { if(word == &amp;#34;add word here&amp;#34;) { rcount &amp;lt;- rcount + 1 } } rcount</description>
+    </item>
+    
+    <item>
+      <title> Datacamp for the classroom</title>
+      <link>https://www.naimcinar.com/posts/datacamp_in_the_classroom/</link>
+      <pubDate>Wed, 25 Mar 2020 21:00:10 +0300</pubDate>
+      
+      <guid>https://www.naimcinar.com/posts/datacamp_in_the_classroom/</guid>
+      <description>I give theoretical and prectical lessons on advertising which is in a constant state of flux. Therefore, I always try to update the content of my courses to stay relevant. Emerging technologies, current consumer trends, transformations in the media landscape, are always at the core of my lectures. Our students need to master new skills to guarantee a successful career in the media and data science is definetly one of those skılls.</description>
+    </item>
+    
+    <item>
+      <title>Conducting human interaction experiments on networks with Breadboard</title>
+      <link>https://www.naimcinar.com/posts/breadboard-software/</link>
+      <pubDate>Mon, 04 Nov 2019 16:55:21 +0300</pubDate>
+      
+      <guid>https://www.naimcinar.com/posts/breadboard-software/</guid>
+      <description>Lately, I’ve been following the web site of Yale Institute for Network Science’s website Human Nature Lab. It’s a great source to follow the latest academic studies on networks. Even better, they develop and share open source software for all of us to use. One of them is, Trellis; a suite of software tools for conducting social network analysis, but today I would like to talk about Breadboard. It is a software for developing and conducting human interaction experiments on networks.</description>
+    </item>
     
     <item>
       <title>My students&#39; project becomes a Cannes Future Lions finalist</title>
@@ -18,7 +92,7 @@
       
       <guid>https://www.naimcinar.com/posts/futurelions_finalist/</guid>
       <description>In my &amp;ldquo;Advertising Project&amp;rdquo; lecture, the students form groups and create a project for Cannes Future Lions competition. This year, Abdullah Görgeç, Beyza Hava and Burak Koşar created &amp;ldquo;Volvo - Animal Safety&amp;rdquo; and it become a finalist in the competition. Congratulations to them!
- Volvo Animal Safety     </description>
+      </description>
     </item>
     
     <item>
@@ -27,9 +101,7 @@
       <pubDate>Fri, 10 May 2019 15:35:16 +0300</pubDate>
       
       <guid>https://www.naimcinar.com/publication/</guid>
-      <description>ARTICLES  Çınar, N. (2018)An evaluation of source effects in consumer generated ads Communication &amp;amp; Society 31 (1), 147-167 Download
- Çınar, N (2016)Understanding the Motives for Joining Ethnic Online Communities A Study of Turks in Norway Journal of Yasar University 11(42), 67-76 Download
- Çınar, N. &amp;amp; Uztuğ, F. (2015)Tüketicilerin yaşadıkları olumsuz satın alma deneyimlerine tepkileri: intikam mı, misilleme mi? Consumer reactions to negative purchase experiences: revenge or retaliation (in Turkish) E-Gifder 3(2), 40-56 Download</description>
+      <description>ARTICLES   Çınar, N. (2018)An evaluation of source effects in consumer generated ads Communication &amp;amp; Society 31 (1), 147-167 Download  Çınar, N (2016)Understanding the Motives for Joining Ethnic Online Communities A Study of Turks in Norway Journal of Yasar University 11(42), 67-76 Download  Çınar, N. &amp;amp; Uztuğ, F. (2015)Tüketicilerin yaşadıkları olumsuz satın alma deneyimlerine tepkileri: intikam mı, misilleme mi? Consumer reactions to negative purchase experiences: revenge or retaliation (in Turkish) E-Gifder 3(2), 40-56 Download  BOOK CHAPTERS   Çınar, N.</description>
     </item>
     
     <item>
@@ -40,7 +112,7 @@
       <guid>https://www.naimcinar.com/posts/the-latest-cool-stuff/</guid>
       <description>Imagining the Future In collaboration with Cannes Lions International Festival of Creativity, Future Lions is the annual worldwide competition that challenges students to create the future. The brief of the competition is simple:
  Connect an audience of your choosing to a product or service from a global brand in a way that wasn’t possible three years ago.
- The main focus of my “Advertising Project” lecture is on the future consumer and technology trends.</description>
+                   </description>
     </item>
     
     <item>
@@ -49,8 +121,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://www.naimcinar.com/about/</guid>
-      <description>Naim Çınar is an assistant professor in the Department of Advertising and Public Relations at Faculty of Communication Sciences, Anadolu University. He also has professional experience as an art director in the advertising industry. His research interests include emerging technology and consumer trends that are shaping the future of advertising; user-generated content; visual content online.
-   View this post on Instagram        #analogphotography #portraitphotography #selfportrait #lomocolor800 photo of @xilibalba</description>
+      <description>Naim Çınar is an assistant professor in the Department of Advertising and Public Relations at Faculty of Communication Sciences, Anadolu University. He also has professional experience as an art director in the advertising industry. His research interests include emerging technology and consumer trends that are shaping the future of advertising; user-generated content; visual content online.</description>
     </item>
     
     <item>
